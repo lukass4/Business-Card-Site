@@ -1,5 +1,3 @@
 # Business Card Site
 
-This is my first proper project in HTML and CSS
-
-To view head to my business card site [here](https://card.lukasj.co.uk)
+First ever real project made in html/css. Not even responsive
